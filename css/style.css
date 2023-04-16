@@ -220,6 +220,9 @@ ul{
     cursor: pointer;
 }
 
+.appointment-search button:hover{
+    background-color: #1e489c;
+}
 /*------whatweprovide---------*/
 .what-we-provide{
     max-width: 1200px;
@@ -426,8 +429,7 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;}
-.swiper-button-next::after,
-.swiper-button-prev::after{
+.swiper-button-next::after,.swiper-button-prev::after{
     font-size: 25px !important;
     font-weight: 800;
     color: #122853;
@@ -488,10 +490,10 @@ ul{
     margin-top: 30px;
 }
 .s-box1 i{
-    background-color: #d4e2ff;
+    background-color: #d4ffe1;
 }
 .s-box2 i{
-    background-color: #d4ffe1;
+    background-color: #d4e2ff;
 }
 .s-box3 i{
     background-color: #ffdad4;
@@ -501,10 +503,10 @@ ul{
 }
 
 .s-box1{
-    background-color: #ecf6fd;
+    background-color: #edfff3;
 }
 .s-box2{
-    background-color: #edfff3;
+    background-color: #ecf6fd;
 }
 .s-box3{
     background-color: #fff0ee;
