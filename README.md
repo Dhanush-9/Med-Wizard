@@ -16,12 +16,12 @@
 
 ## Features:
 
-#####1.	Medical encyclopedia - A comprehensive database of medical conditions, treatments, and procedures, with detailed information.
+##### 1.	Medical encyclopedia - A comprehensive database of medical conditions, treatments, and procedures, with detailed information.
 ##### 2.	Find a Doctor - A directory of healthcare professionals, where patients can search and find doctors by specialty, location, and availability.
 ##### 3.	Online Consultation - A feature that allows patients to consult with doctors online, from the comfort of their homes.
 ##### 4.	Appointment Booking - A feature that enables patients to book appointments with doctors online, without the hassle of waiting in long queues.
 ##### 5.	Medical Blog - A platform for healthcare professionals to share their knowledge and experience on various medical topics.
-###### 6.	Forum - A community where patients can share their experiences and connect with others who have similar conditions.
+##### 6.	Forum - A community where patients can share their experiences and connect with others who have similar conditions.
 
 ## Target Audience:
 ##### The Healthcare Hub aims to cater to a wide range of audiences, including:
