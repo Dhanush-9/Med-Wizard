@@ -16,10 +16,10 @@
 
 ## Target Audience:
 ##### The Healthcare Hub aims to cater to a wide range of audiences, including:
-##### 2.	Patients looking for medical information and services.
-##### 3.	Healthcare professionals seeking to connect and collaborate with peers.
-##### 4.	Medical students and researchers seeking to expand their knowledge.
-##### 5.	Healthcare organizations and institutions seeking to promote their services.
+##### 1.	Patients looking for medical information and services.
+##### 2.	Healthcare professionals seeking to connect and collaborate with peers.
+##### 3.	Medical students and researchers seeking to expand their knowledge.
+##### 4.	Healthcare organizations and institutions seeking to promote their services.
 
 ## Conclusion:
 ##### The Med Wizard will be a valuable resource for patients, healthcare professionals, and organizations alike, providing a comprehensive range of services and information. The website will be user-friendly, reliable, and accessible to all, making it a one-stop solution for all healthcare-related needs. The Med Wizard Website is a platform that will provide quality healthcare services to patients, doctors, and medical professionals. The website's features, including online consultations, appointment booking, medical blogs, and forums, will provide patients with easy access to quality healthcare services. The website will also offer medical professionals a platform to share their knowledge and expertise with a wider audience, making healthcare more accessible and efficient
