@@ -15,7 +15,7 @@
 ##### 5.	To create a community where patients can share their experiences and seek support.
 
 ## Target Audience:
-##### 1.	The Healthcare Hub aims to cater to a wide range of audiences, including:
+##### The Healthcare Hub aims to cater to a wide range of audiences, including:
 ##### 2.	Patients looking for medical information and services.
 ##### 3.	Healthcare professionals seeking to connect and collaborate with peers.
 ##### 4.	Medical students and researchers seeking to expand their knowledge.
